@@ -1,2 +1,5 @@
-# taller-latex
-Taller de LaTeX, contiene presentación y ejemplos prácticos
+# Taller Latex
+
+Reposotorio contiene código fuente realizado y presentación sobre Latex.
+
+Autor: <a href="http://ppizarror.com">Pablo Pizarro</a> 2018-2019.
