@@ -9,7 +9,7 @@ Reposotorio contiene código fuente realizado y presentación sobre Latex.
 
 ## Autor
 
-<a href="http://ppizarror.com">Pablo Pizarro R.</a> 2018-2019.
+[https://ppizarror.com](Pablo Pizarro R.) 2018-2019.
 
 ## Licencia
 
