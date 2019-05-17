@@ -13,4 +13,4 @@ Reposotorio contiene código fuente realizado y presentación sobre Latex.
 
 ## Licencia
 
-Este proyecto está licenciado bajo la licencia [MIT](https://opensource.org/licenses/MIT)
+Este proyecto está licenciado bajo la licencia MIT [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
