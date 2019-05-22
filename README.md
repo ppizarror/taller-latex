@@ -2,6 +2,8 @@
 
 Reposotorio contiene código fuente realizado y presentación sobre Latex
 
+- [Presentación taller](https://ppizarror.com/taller-latex/taller%20latex.pdf)
+
 ## Links de interés
 
 - [Template-Informe](https://latex.ppizarror.com/informe.html)
@@ -9,7 +11,7 @@ Reposotorio contiene código fuente realizado y presentación sobre Latex
 
 ## Autor
 
-[Pablo Pizarro R.](https://ppizarror.com) 2018-2019.
+[Pablo Pizarro R.](https://ppizarror.com) 2018-2019
 
 ## Licencia
 
