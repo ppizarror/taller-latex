@@ -2,11 +2,11 @@
 
 Reposotorio contiene código fuente realizado y presentación sobre Latex
 
-- [Presentación taller](https://ppizarror.com/taller-latex/taller%20latex.pdf)
+- [Presentación taller](https://github.ppizarror.com/taller-latex/taller%20latex.pdf)
 
 ## Links de interés
 
-- [Template-Informe](https://latex.ppizarror.com/informe.html)
+- [Template-Informe](https://latex.ppizarror.com/informe)
 - [Documentación Latex - Overleaf](https://www.overleaf.com/learn/latex/Main_Page)
 
 ## Autor
