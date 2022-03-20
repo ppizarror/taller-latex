@@ -11,7 +11,7 @@ Reposotorio contiene código fuente realizado y presentación sobre Latex
 
 ## Autor
 
-[Pablo Pizarro R.](https://ppizarror.com) 2018-2019
+[Pablo Pizarro R.](https://ppizarror.com) 2018 - 2019
 
 ## Licencia
 
